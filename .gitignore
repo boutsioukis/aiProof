@@ -36,12 +36,14 @@ uv.lock
 # IDEs
 .vscode/
 .idea/
-.claude/
+/.claude/
 *.swp
 *.swo
 *~
 **/.DS_Store
 Thumbs.db
+# Allow course-specific .claude/CLAUDE.md files
+!**/.claude/CLAUDE.md
 
 # Testing
 .tox/
