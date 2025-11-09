@@ -1,0 +1,82 @@
+{
+  "course_info": {
+    "course_id": "32905",
+    "course_name": "2IRR20 (2025-1) Networks",
+    "course_code": "2IRR20 Networks"
+  },
+  "tasks": [
+    {
+      "id": "homework_1",
+      "name": "Weekly Homework Assignment 1",
+      "type": "homework",
+      "description": "First of 4 weekly homework exercises",
+      "status": "pending",
+      "priority": "high",
+      "due_date": null,
+      "requirements": [
+        "Complete all exercises in homework set 1",
+        "Show detailed work and explanations"
+      ]
+    },
+    {
+      "id": "homework_2", 
+      "name": "Weekly Homework Assignment 2",
+      "type": "homework",
+      "description": "Second of 4 weekly homework exercises",
+      "status": "pending",
+      "priority": "high",
+      "due_date": null,
+      "requirements": [
+        "Complete all exercises in homework set 2",
+        "Show detailed work and explanations"
+      ]
+    },
+    {
+      "id": "homework_3",
+      "name": "Weekly Homework Assignment 3", 
+      "type": "homework",
+      "description": "Third of 4 weekly homework exercises",
+      "status": "pending",
+      "priority": "high",
+      "due_date": null,
+      "requirements": [
+        "Complete all exercises in homework set 3",
+        "Show detailed work and explanations"
+      ]
+    },
+    {
+      "id": "homework_4",
+      "name": "Weekly Homework Assignment 4",
+      "type": "homework", 
+      "description": "Fourth of 4 weekly homework exercises",
+      "status": "pending",
+      "priority": "high",
+      "due_date": null,
+      "requirements": [
+        "Complete all exercises in homework set 4",
+        "Show detailed work and explanations"
+      ]
+    },
+    {
+      "id": "final_essay",
+      "name": "Final Essay (Professional Skills)",
+      "type": "essay",
+      "description": "Final essay on contemporary topics in the field",
+      "status": "pending",
+      "priority": "medium",
+      "due_date": null,
+      "requirements": [
+        "Write comprehensive academic essay",
+        "Include literature review and analysis",
+        "Follow academic writing standards",
+        "3000-4000 words approximately"
+      ]
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-01-07",
+    "last_updated": null,
+    "total_tasks": 5,
+    "completed_tasks": 0
+  }
+}
